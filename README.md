@@ -1,4 +1,4 @@
-# <div align="center"> Image_Classification </div>
+# <div align="center"> Image Classification Using TensorFlow </div>
 <p align="center">
   <img src="image.jpg">
 
